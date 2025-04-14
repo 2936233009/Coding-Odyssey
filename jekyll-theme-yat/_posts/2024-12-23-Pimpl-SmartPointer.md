@@ -4,8 +4,6 @@ title: "Pimpl"
 categories: misc
 ---
 
-<link rel="stylesheet" href="jekyll-theme-yat/assets/css/style.css">
-
 * 议题-关于减少编译依赖性
 
 ```C++
